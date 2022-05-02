@@ -21,7 +21,7 @@ jobs:
       GH_TOKEN: ${{ secrets.GH_TOKEN }}
       GIST_ID: 3fd675216a3d93176a4ce2e16b2b48e9
       GIST_BARSTYLE: EMPTY
-      GIST_BARLENGTH: -1
+      GIST_BARLENGTH: 20
       GIST_TIMESTYLE: SHORT
 
     steps:
